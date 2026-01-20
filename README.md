@@ -1,4 +1,4 @@
-`# Build Visual Studio SSRS Project Release Action
+# Build Visual Studio SSRS Project Release Action
 
 This GitHub Action automates the process of building a Visual Studio SSRS project, packaging build artifacts into a zip file, creating annotated semantic version tags, and publishing a GitHub Release with release notes and attachments. It streamlines the build and release of SSRS (`.rptproj`) projects in a CI pipeline.
 
